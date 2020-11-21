@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dahwk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dahwk_jar</output-path>
+    <root id="archive" name="dahwk.jar">
+      <element id="module-output" name="dahwk" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/ibm/wala/com.ibm.wala.shrike/1.5.5/com.ibm.wala.shrike-1.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/ibm/wala/com.ibm.wala.core/1.5.5/com.ibm.wala.core-1.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.6/commons-io-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../com.ibm.wala.shrike-1.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../com.ibm.wala.util-1.5.5.jar" path-in-jar="/" />
+      <element id="library" level="application" name="WALA-master" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/ibm/wala/com.ibm.wala.util/1.5.5/com.ibm.wala.util-1.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/ibm/wala/com.ibm.wala.cast/1.5.5/com.ibm.wala.cast-1.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../com.ibm.wala.core-1.5.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
